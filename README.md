@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution code](https://your-solution-url.com)
-- Live Site URL: [Live Demo](https://your-live-site-url.com)
+- Solution URL: [Solution code](https://github.com/Adnan0-IM/testimonial-grid-section)
+- Live Site URL: [Live Demo](https://extraordinary-lollipop-1f783c.netlify.app/)
 
 ## My process
 
